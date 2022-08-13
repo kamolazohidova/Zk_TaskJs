@@ -99,13 +99,13 @@ select:-webkit-autofill:focus {
     padding: 8px 15px;
     border-radius: 30px;
     background-color: #000;
-    color: green;
-    border: 2px solid green;
+    color: red;
+    border: 2px solid red;
     transition: color 0.2s ease, border-color 0.2s ease;
 }
 
 #btn {
-    border-radius: 30px;
+    border-radius: 20px;
     padding: 15px 20px;
     background-color: #000;
     color: green;
@@ -114,7 +114,7 @@ select:-webkit-autofill:focus {
 }
 
 #Searchbtn {
-    border-radius: 30px;
+    border-radius: 20px;
     padding: 15px 20px;
     background-color: #000;
     color: green;
@@ -167,6 +167,7 @@ select:-webkit-autofill:focus {
 .inner {
     display: flex;
     align-items: center;
+    margin-bottom: 10px;
 }
 
 #serachInput {
@@ -174,7 +175,7 @@ select:-webkit-autofill:focus {
     max-width: 250px;
     padding: 12px 10px;
     margin-right: 10px;
-    border-radius: 25px;
+    border-radius: 20px;
     font-size: 18px;
     border: 2px solid transparent;
     background-color: #000;
@@ -188,7 +189,7 @@ select:-webkit-autofill:focus {
     max-width: 250px;
     padding: 12px 10px;
     margin-right: 20px;
-    border-radius: 25px;
+    border-radius: 20px;
     font-size: 18px;
     border: 2px solid transparent;
     background-color: #000;
